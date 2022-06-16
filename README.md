@@ -13,7 +13,8 @@
 * [数据库系统概论-教材-王珊版](.\王珊-人大\数据库系统概论-第5版.pdf)(推荐👍)
 * [数据库系统概论-ppt](.\王珊-人大\ppt课件)
 * 视频
-  * [数据库系统概论（王珊老师）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1pW411W7Do?spm_id_from=333.337.search-card.all.click)
+	* [数据库系统概论完整版(基础篇+高级篇+新技术篇)_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV13J411J7Vu/?spm_id_from=333.788.recommend_more_video.0)
+    * [数据库系统概论（王珊老师）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1pW411W7Do?spm_id_from=333.337.search-card.all.click)
 
 ### 战德臣-哈工大
 
